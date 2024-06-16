@@ -1,10 +1,6 @@
 :root {
     --color: 0;
     --main: hsl(var(--color), 60%, 38%);
-    --mainhover: hsl(var(--color), 60%, 30%);
-    --maindark: hsl(var(--color), 60%, 23%);
-    --bar: hsl(var(--color), 90%, 58%);
-    --background: hsl(var(--color), 56%, 6%);
   }
 
 .player {
